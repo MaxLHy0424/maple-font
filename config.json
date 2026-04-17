@@ -52,7 +52,7 @@
     "cv64": "ignore",
     "cv65": "ignore",
     "cv66": "ignore",
-    "cv96": "ignore",
+    "cv96": "enable",
     "cv97": "enable",
     "cv98": "enable",
     "cv99": "ignore",
@@ -67,7 +67,7 @@
     "ss09": "ignore",
     "ss10": "ignore",
     "ss11": "ignore",
-    "zero": "enable"
+    "zero": "ignore"
   },
   "nerd_font": {
     "enable": true,
