@@ -66,7 +66,7 @@
     "ss08": "enable",
     "ss09": "ignore",
     "ss10": "ignore",
-    "ss11": "ignore",
+    "ss11": "ignore"，
     "zero": "enable"
   },
   "nerd_font": {
@@ -77,9 +77,9 @@
     "use_font_patcher": false,
     "glyphs": [
       "--complete"
-    ],
+    ]，
     "extra_args": []
-  }，
+  },
   "cn": {
     "enable": true,
     "with_nerd_font": true,
