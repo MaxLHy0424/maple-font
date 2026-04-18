@@ -62,7 +62,7 @@
     "ss04": "enable",
     "ss05": "enable",
     "ss06": "enable",
-    "ss07": "enable",
+    "ss07": "enable"，
     "ss08": "enable",
     "ss09": "ignore",
     "ss10": "ignore",
@@ -77,7 +77,7 @@
     "use_font_patcher": false,
     "glyphs": [
       "--complete"
-    ]，
+    ],
     "extra_args": []
   },
   "cn": {
