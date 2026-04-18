@@ -63,7 +63,7 @@
     "ss05": "enable",
     "ss06": "enable",
     "ss07": "enable"，
-    "ss08": "enable",
+    "ss08": "enable"，
     "ss09": "ignore",
     "ss10": "ignore",
     "ss11": "ignore",
@@ -79,7 +79,7 @@
       "--complete"
     ],
     "extra_args": []
-  },
+  }，
   "cn": {
     "enable": true,
     "with_nerd_font": true,
