@@ -66,8 +66,8 @@
     "ss08": "enable",
     "ss09": "ignore",
     "ss10": "ignore",
-    "ss11": "ignore"，
-    "zero": "enable"
+    "ss11": "ignore",
+    "zero": "ignore"
   },
   "nerd_font": {
     "enable": true,
