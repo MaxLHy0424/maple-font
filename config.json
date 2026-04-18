@@ -59,7 +59,7 @@
     "ss01": "enable",
     "ss02": "enable",
     "ss03": "ignore",
-    "ss04": "enable",
+    "ss04": "enable"，
     "ss05": "enable",
     "ss06": "enable",
     "ss07": "enable",
@@ -67,7 +67,7 @@
     "ss09": "ignore",
     "ss10": "ignore",
     "ss11": "ignore",
-    "zero": "ignore"
+    "zero": "enable"
   },
   "nerd_font": {
     "enable": true,
@@ -79,7 +79,7 @@
       "--complete"
     ],
     "extra_args": []
-  },
+  }，
   "cn": {
     "enable": true,
     "with_nerd_font": true,
